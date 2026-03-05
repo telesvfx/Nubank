@@ -1,0 +1,20 @@
+# Ambientes Virtuais do Python
+.venv/
+venv/
+env/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Cache do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Bloqueia os dados reais, mas permite o upload das pastas vazias
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Credenciais e Variáveis de Ambiente
+.env
