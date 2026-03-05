@@ -32,7 +32,7 @@ A arquitetura foi desenhada para garantir a reprodutibilidade da análise, separ
 └── requirements.txt        # Bibliotecas necessárias (pandas, scikit-learn, etc.)
 
 
-## 👥 Equipe e Divisão de Responsabilidades
+👥 Equipe e Divisão de Responsabilidades
 
 O pipeline de dados foi dividido estrategicamente para cobrir toda a esteira do projeto, desde a coleta até a apresentação final:
 
@@ -47,7 +47,7 @@ Pessoa 4 – Visualização + Business Insights: Construção dos dashboards, fo
 Integrantes:
 Thiago Teles Silva | Paulo Futagawa | Thaís | Felipe Tavares
 
-##🔄 Fluxo de Trabalho (Code Review)
+🔄 Fluxo de Trabalho (Code Review)
 
 Nenhum código vai direto para a branch principal. O fluxo oficial da equipe é:
 
@@ -57,7 +57,7 @@ Abrir um Pull Request (PR).
 
 Todo PR exige revisão cruzada (Code Review) de pelo menos um colega antes do merge.
 
-##⚙️ Como Reproduzir o Ambiente
+⚙️ Como Reproduzir o Ambiente
 
 Clone o repositório:
 
@@ -79,7 +79,7 @@ Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ---
 
-### 2. Copie e cole em um novo arquivo chamado `LICENSE` (sem extensão, direto na raiz do projeto)
+ 2. Copie e cole em um novo arquivo chamado `LICENSE` (sem extensão, direto na raiz do projeto)
 
 ```text
 MIT License
