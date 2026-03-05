@@ -16,8 +16,6 @@ Através de análises preditivas e modelagem, o projeto busca avaliar a saúde f
 
 ![Guia do Repositório](<assets/guia o que cada pasta faz.png>)
 
-assets/guia o que cada pasta faz.png
-
 ## 📂 Estrutura do Repositório
 
 A arquitetura foi desenhada para garantir a reprodutibilidade da análise, separando dados brutos da experimentação e do código final:
