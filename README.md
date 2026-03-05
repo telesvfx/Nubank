@@ -6,7 +6,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este repositório documenta uma análise avançada focada no ecossistema do Nubank. O objetivo principal é extrair e identificar problemas e oportunidades de negócio a partir de fontes de dados públicos (dados macroeconômicos, balanços financeiros, sentimento do consumidor, etc.). 
+Este repositório documenta uma análise avançada focada no ecossistema do Nubank. O objetivo principal é extrair e identificar problemas e oportunidades de negócio a partir de fontes de dados públicos (dados macroeconômicos, balanços financeiros, sentimento do consumidor, etc.).
 
 Através de análises preditivas e modelagem, o projeto busca avaliar a saúde financeira e o direcionamento estratégico da empresa, culminando em uma apresentação gerencial com foco em tomadas de decisão.
 
@@ -80,8 +80,6 @@ Fluxo padrão:
 - Passar por **Code Review** de pelo menos um integrante antes do merge  
 
 Esse processo garante organização, qualidade e colaboração no projeto.
-
-
 
 ## ⚙️ Como Reproduzir o Ambiente
 
