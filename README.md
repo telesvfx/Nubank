@@ -72,41 +72,27 @@ O pipeline de dados foi estruturado estrategicamente para cobrir **toda a esteir
 
 ## 🔄 Fluxo de Trabalho (Code Review)
 
-Nenhum código é enviado diretamente para a branch principal. O fluxo oficial da equipe segue as seguintes etapas:
+Nenhum código vai direto para a branch principal.
+
+Fluxo padrão:
+
+- Criar uma **branch** para sua tarefa
+- Abrir um **Pull Request (PR)**  
+- Passar por **Code Review** de pelo menos um integrante antes do merge  
+
+Esse processo garante organização, qualidade e colaboração no projeto.
 
 ---
-
-### 🛠 1. Desenvolvimento em Branch
-
-Cada integrante deve trabalhar em uma **branch dedicada à sua tarefa**, garantindo organização e rastreabilidade das mudanças.
-
----
-
-### 🔁 2. Abertura de Pull Request (PR)
-
-Após finalizar a tarefa, deve-se abrir um **Pull Request (PR)** para integrar as alterações ao projeto.
-
----
-
-### 👀 3. Revisão Cruzada (Code Review)
-
-Todo PR exige **revisão de pelo menos um colega da equipe** antes do merge, garantindo qualidade, padronização e redução de erros.
-
----
-
-Esse processo assegura maior controle de versão, colaboração eficiente e qualidade no desenvolvimento do projeto.
 
 ## ⚙️ Como Reproduzir o Ambiente
 
 Siga os passos abaixo para configurar o projeto localmente:
 
----
-
 ### 📥 1. Clone o repositório
 
 ```bash
-git clone https://github.com/telesvfx/nubank-financial-analysis-ds.git
-cd nubank-financial-analysis-ds
+git clone https://github.com/telesvfx/nubank.git
+cd nubank
 ```
 
 ## 🐍 2. Crie e ative o ambiente virtual
