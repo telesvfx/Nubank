@@ -1,10 +1,11 @@
-# 🟣 Nubank: Avaliação de Negócios e Análise Preditiva
+## 🟣 Nubank: Avaliação de Negócios e Análise Preditiva 🟣
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
 ## 📌 Sobre o Projeto
+
 Este repositório documenta uma análise avançada focada no ecossistema do Nubank. O objetivo principal é extrair e identificar problemas e oportunidades de negócio a partir de fontes de dados públicos (dados macroeconômicos, balanços financeiros, sentimento do consumidor, etc.). 
 
 Através de análises preditivas e modelagem, o projeto busca avaliar a saúde financeira e o direcionamento estratégico da empresa, culminando em uma apresentação gerencial com foco em tomadas de decisão.
@@ -34,8 +35,6 @@ A arquitetura foi desenhada para garantir a reprodutibilidade da análise, separ
 ## 👥 Equipe & Divisão de Responsabilidades  
 
 O pipeline de dados foi estruturado estrategicamente para cobrir **toda a esteira do projeto**, desde a coleta até a geração de insights estratégicos:
-
----
 
 ### 🔹 Pessoa 1 — Data Engineer  
 
@@ -82,7 +81,7 @@ Fluxo padrão:
 
 Esse processo garante organização, qualidade e colaboração no projeto.
 
----
+
 
 ## ⚙️ Como Reproduzir o Ambiente
 
