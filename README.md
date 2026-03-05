@@ -31,45 +31,103 @@ A arquitetura foi desenhada para garantir a reprodutibilidade da análise, separ
 └── requirements.txt        # Bibliotecas necessárias (pandas, scikit-learn, etc.)
 ```
 
-## 👥 Equipe e Divisão de Responsabilidades
-O pipeline de dados foi dividido estrategicamente para cobrir toda a esteira do projeto, desde a coleta até a apresentação final:
+## 👥 Equipe & Divisão de Responsabilidades  
 
-Pessoa 1 – Data Engineer: Coleta dos dados (balanço + macro), limpeza e organização estrutural na pasta /data.
+O pipeline de dados foi estruturado estrategicamente para cobrir **toda a esteira do projeto**, desde a coleta até a geração de insights estratégicos:
 
-Pessoa 2 – Feature Engineer: Criação de métricas, transformações de dados e elaboração de variáveis derivadas para enriquecer as análises.
+---
 
-Pessoa 3 – Modelagem: Desenvolvimento das análises preditivas (Regressão, Forecast) e construção de cenários e simulações.
+### 🔹 Pessoa 1 — Data Engineer  
+- Coleta de dados (balanço patrimonial + dados macroeconômicos)  
+- Limpeza e tratamento inicial  
+- Organização estrutural dos arquivos na pasta `/data`  
 
-Pessoa 4 – Visualização + Business Insights: Construção dos dashboards, formulação da análise estratégica do negócio e escrita do relatório/apresentação final.
+---
 
-Integrantes:
-Thiago Teles Silva | Paulo Futagawa | Thaís | Felipe Tavares
+### 🔹 Pessoa 2 — Feature Engineer  
+- Criação de métricas financeiras  
+- Transformações e normalizações  
+- Desenvolvimento de variáveis derivadas para enriquecer as análises  
+
+---
+
+### 🔹 Pessoa 3 — Modelagem  
+- Desenvolvimento de modelos preditivos (Regressão e Forecast)  
+- Construção de cenários  
+- Simulações e análises estatísticas  
+
+---
+
+### 🔹 Pessoa 4 — Visualização & Business Insights  
+- Construção de dashboards  
+- Análise estratégica do negócio  
+- Elaboração do relatório e apresentação final  
+
+---
+
+## 👤 Integrantes  
+
+- **Thiago Teles Silva**  
+- **Paulo Futagawa**  
+- **Thaís**  
+- **Felipe Tavares**  
 
 ## 🔄 Fluxo de Trabalho (Code Review)
-Nenhum código vai direto para a branch principal. O fluxo oficial da equipe é:
 
-Trabalhar em uma branch dedicada à sua tarefa.
+Nenhum código é enviado diretamente para a branch principal. O fluxo oficial da equipe segue as seguintes etapas:
 
-Abrir um Pull Request (PR).
+---
 
-Todo PR exige revisão cruzada (Code Review) de pelo menos um colega antes do merge.
+### 🛠 1. Desenvolvimento em Branch
+Cada integrante deve trabalhar em uma **branch dedicada à sua tarefa**, garantindo organização e rastreabilidade das mudanças.
+
+---
+
+### 🔁 2. Abertura de Pull Request (PR)
+Após finalizar a tarefa, deve-se abrir um **Pull Request (PR)** para integrar as alterações ao projeto.
+
+---
+
+### 👀 3. Revisão Cruzada (Code Review)
+Todo PR exige **revisão de pelo menos um colega da equipe** antes do merge, garantindo qualidade, padronização e redução de erros.
+
+---
+
+Esse processo assegura maior controle de versão, colaboração eficiente e qualidade no desenvolvimento do projeto.
 
 ## ⚙️ Como Reproduzir o Ambiente
 
-Clone o repositório:
+Siga os passos abaixo para configurar o projeto localmente:
 
-Bash
+---
+
+### 📥 1. Clone o repositório
+
+```bash
 git clone https://github.com/telesvfx/nubank-financial-analysis-ds.git
 cd nubank-financial-analysis-ds
-Crie e ative o ambiente virtual:
+```
 
-Bash
+## 🐍 2. Crie e ative o ambiente virtual
+
+```bash
 python -m venv .venv
-.venv\Scripts\activate  # Windows
-Instale as dependências:
+```
 
-Bash
+## Ativação no Windows:
+
+```bash
+.venv\Scripts\activate
+```
+
+## 📦 3. Instale as dependências
+
+```bash
 pip install -r requirements.txt
+```
 
 ## 📄 Licença
-Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Este projeto está distribuído sob a **Licença MIT**.
+
+Para mais detalhes sobre permissões, limitações e responsabilidades, consulte o arquivo `LICENSE` presente neste repositório.
