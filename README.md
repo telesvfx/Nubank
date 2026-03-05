@@ -1,4 +1,4 @@
-## 🟣 Nubank: Avaliação de Negócios e Análise Preditiva 🟣
+<h2 align="center">🟣 Nubank: Avaliação de Negócios e Análise Preditiva 🟣</h2>
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/License-MIT-blue)
