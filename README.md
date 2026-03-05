@@ -1,4 +1,3 @@
-
 # 🟣 Nubank: Avaliação de Negócios e Análise Preditiva
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
@@ -30,10 +29,9 @@ A arquitetura foi desenhada para garantir a reprodutibilidade da análise, separ
 ├── .gitignore              
 ├── README.md               
 └── requirements.txt        # Bibliotecas necessárias (pandas, scikit-learn, etc.)
+```
 
-
-👥 Equipe e Divisão de Responsabilidades
-
+## 👥 Equipe e Divisão de Responsabilidades
 O pipeline de dados foi dividido estrategicamente para cobrir toda a esteira do projeto, desde a coleta até a apresentação final:
 
 Pessoa 1 – Data Engineer: Coleta dos dados (balanço + macro), limpeza e organização estrutural na pasta /data.
@@ -47,8 +45,7 @@ Pessoa 4 – Visualização + Business Insights: Construção dos dashboards, fo
 Integrantes:
 Thiago Teles Silva | Paulo Futagawa | Thaís | Felipe Tavares
 
-🔄 Fluxo de Trabalho (Code Review)
-
+## 🔄 Fluxo de Trabalho (Code Review)
 Nenhum código vai direto para a branch principal. O fluxo oficial da equipe é:
 
 Trabalhar em uma branch dedicada à sua tarefa.
@@ -57,12 +54,12 @@ Abrir um Pull Request (PR).
 
 Todo PR exige revisão cruzada (Code Review) de pelo menos um colega antes do merge.
 
-⚙️ Como Reproduzir o Ambiente
+## ⚙️ Como Reproduzir o Ambiente
 
 Clone o repositório:
 
 Bash
-git clone [https://github.com/SEU_USUARIO/nubank-financial-analysis-ds.git](https://github.com/SEU_USUARIO/nubank-financial-analysis-ds.git)
+git clone https://github.com/telesvfx/nubank-financial-analysis-ds.git
 cd nubank-financial-analysis-ds
 Crie e ative o ambiente virtual:
 
@@ -73,33 +70,6 @@ Instale as dependências:
 
 Bash
 pip install -r requirements.txt
-📄 Licença
+
+## 📄 Licença
 Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-
----
-
- 2. Copie e cole em um novo arquivo chamado `LICENSE` (sem extensão, direto na raiz do projeto)
-
-```text
-MIT License
-
-Copyright (c) 2026 Thiago Teles Silva, Paulo Futagawa, Thaís, Felipe Tavares
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
