@@ -38,27 +38,25 @@ O pipeline de dados foi estruturado estrategicamente para cobrir **toda a esteir
 ---
 
 ### 🔹 Pessoa 1 — Data Engineer  
+
 - Coleta de dados (balanço patrimonial + dados macroeconômicos)  
 - Limpeza e tratamento inicial  
 - Organização estrutural dos arquivos na pasta `/data`  
 
----
-
 ### 🔹 Pessoa 2 — Feature Engineer  
+
 - Criação de métricas financeiras  
 - Transformações e normalizações  
 - Desenvolvimento de variáveis derivadas para enriquecer as análises  
 
----
-
 ### 🔹 Pessoa 3 — Modelagem  
+
 - Desenvolvimento de modelos preditivos (Regressão e Forecast)  
 - Construção de cenários  
 - Simulações e análises estatísticas  
 
----
-
 ### 🔹 Pessoa 4 — Visualização & Business Insights  
+
 - Construção de dashboards  
 - Análise estratégica do negócio  
 - Elaboração do relatório e apresentação final  
@@ -67,9 +65,9 @@ O pipeline de dados foi estruturado estrategicamente para cobrir **toda a esteir
 
 ## 👤 Integrantes  
 
-- **Thiago Teles Silva**  
+- **Thiago Teles**  
 - **Paulo Futagawa**  
-- **Thaís**  
+- **Thaís Nakazone**  
 - **Felipe Tavares**  
 
 ## 🔄 Fluxo de Trabalho (Code Review)
@@ -79,16 +77,19 @@ Nenhum código é enviado diretamente para a branch principal. O fluxo oficial d
 ---
 
 ### 🛠 1. Desenvolvimento em Branch
+
 Cada integrante deve trabalhar em uma **branch dedicada à sua tarefa**, garantindo organização e rastreabilidade das mudanças.
 
 ---
 
 ### 🔁 2. Abertura de Pull Request (PR)
+
 Após finalizar a tarefa, deve-se abrir um **Pull Request (PR)** para integrar as alterações ao projeto.
 
 ---
 
 ### 👀 3. Revisão Cruzada (Code Review)
+
 Todo PR exige **revisão de pelo menos um colega da equipe** antes do merge, garantindo qualidade, padronização e redução de erros.
 
 ---
@@ -114,7 +115,7 @@ cd nubank-financial-analysis-ds
 python -m venv .venv
 ```
 
-## Ativação no Windows:
+## Ativação no Windows
 
 ```bash
 .venv\Scripts\activate
