@@ -1,4 +1,4 @@
-<h2 align="center">🟣 Nubank: Avaliação de Negócios e Análise Preditiva 🟣</h2>
+<h2 align="center"> 🟣 Nubank: Avaliação de Negócios e Análise Preditiva 🟣 </h2>
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/License-MIT-blue)
@@ -120,7 +120,7 @@ Este projeto está distribuído sob a **Licença MIT**.
 
 Para mais detalhes sobre permissões, limitações e responsabilidades, consulte o arquivo `LICENSE` presente neste repositório.
 
-<h2 align="center">🟣 🟣 Nubank 2025: Diagnóstico Estratégico 360° 🟣</h2>
+<h2 align="center"> 🟣 Nubank 2025: Diagnóstico Estratégico 360° 🟣</h2>
 
 > **Cruzamento entre Saúde Financeira (Bacen Pilar 3) e Análise de Sentimento (NLP)**
 
@@ -136,15 +136,13 @@ Este repositório contém o diagnóstico estratégico do Nubank para o ciclo de 
 
 O Nubank atingiu a marca de ~100 milhões de clientes, mas o crescimento acelerado gerou efeitos colaterais visíveis nos relatórios de Pilar 3.
 
-* **A Tensão:** Capital e risco sob pressão silenciosa.
-* **O Sintoma:** Reclamações públicas que indicam estresse operacional.
-* **A Tese:** *"Dados financeiros dizem o que está acontecendo. Dados de sentimento explicam o churn."*
+**A Tensão:** Capital e risco sob pressão silenciosa.
+**O Sintoma:** Reclamações públicas que indicam estresse operacional.
+**A Tese:** *"Dados financeiros dizem o que está acontecendo. Dados de sentimento explicam o churn."*
 
 ---
 
 ## 📊 1. Cenário Financeiro & Riscos (Pilar 3)
-
-*Síntese dos indicadores regulatórios (Q1–Q3 2025)*
 
 ### 📉 Solvência em Alerta
 
@@ -224,8 +222,8 @@ A crise financeira e a experiência do cliente não são eventos isolados:
 | KPI | Atual | Meta (Q4/25) | Prazo |
 | :--- | :--- | :--- | :--- |
 | **Índice de Basileia** | 14,59% | **> 15,5%** | 6 meses |
-| **Taxa de Entrada (Inad.)**| 79,5% | **< 50%** | 2 quarters |
-| **Reclamações (Cluster 2)**| Crítico | **-40%** | 90 dias |
+| **Taxa de Entrada (Inad.)** | 79,5% | **< 50%** | 2 quarters |
+| **Reclamações (Cluster 2)** | Crítico | **-40%** | 90 dias |
 
 ---
 
@@ -239,4 +237,3 @@ Para este diagnóstico, foram utilizadas as seguintes técnicas de Data Science:
 
 ---
 **Equipe de Análise:** Thiago Teles Silva, Paulo Futagawa, Thaís, Felipe Tavares.  
-*Dados baseados em fontes públicas e relatórios regulatórios Bacen (Circular 3.930).*
