@@ -3,6 +3,13 @@
 ║                          Pesquisa Aprofundada 2024-2025                                ║
 ╚════════════════════════════════════════════════════════════════════════════════════════╝
 
+
+C0 — reclamações sobre PIX e contestações (29 pessoas)
+C1 — reclamações sobre conta bloqueada (31 pessoas)
+C2 — reclamações sobre cobrança indevida — esse é o mais grave porque 62% das pessoas perderam dinheiro de verdade (24 pessoas)
+C3 — reclamações sobre cartão de crédito (38 pessoas)
+
+
 📊 DADOS PROCESSADOS
 ───────────────────────────────────────────────────────────────────────────────────────
 ✓ 122 reclamações analisadas
