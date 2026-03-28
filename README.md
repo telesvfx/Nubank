@@ -120,8 +120,7 @@ Este projeto está distribuído sob a **Licença MIT**.
 
 Para mais detalhes sobre permissões, limitações e responsabilidades, consulte o arquivo `LICENSE` presente neste repositório.
 
-
-# 🟣 Nubank 2025: Diagnóstico Estratégico 360°
+<h2 align="center">🟣 🟣 Nubank 2025: Diagnóstico Estratégico 360° 🟣</h2>
 
 > **Cruzamento entre Saúde Financeira (Bacen Pilar 3) e Análise de Sentimento (NLP)**
 
