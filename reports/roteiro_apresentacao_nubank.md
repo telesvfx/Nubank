@@ -1,4 +1,5 @@
 # 🎤 ROTEIRO DE APRESENTAÇÃO — DIAGNÓSTICO ESTRATÉGICO NUBANK
+
 **Público:** Banca Acadêmica · **Tempo:** 10 a 15 minutos · **Tom:** Didático e Explicativo
 
 ---
@@ -18,6 +19,7 @@
 ---
 
 ## 🟣 BLOCO 1 — ABERTURA (~1 min)
+
 > *Slide: Capa — "Diagnóstico Estratégico 360°"*
 
 **Fala sugerida:**
@@ -29,6 +31,7 @@ A pergunta central que guiou a pesquisa foi: **o que os números oficiais e a vo
 ---
 
 ## 🟣 BLOCO 2 — METODOLOGIA (~1,5 min)
+
 > *Slide: Metodologia & Escopo*
 
 **Fala sugerida:**
@@ -44,6 +47,7 @@ O terceiro pilar foi o **cruzamento das duas fontes**, buscando correlações en
 ---
 
 ## 🟣 BLOCO 3 — SAÚDE FINANCEIRA (~3 min)
+
 > *Slides: Painel de Capital · Decomposição do RWA · Gráfico Cascata · Projeções Q4*
 
 **Fala sugerida:**
@@ -51,7 +55,6 @@ O terceiro pilar foi o **cruzamento das duas fontes**, buscando correlações en
 "Começando pela saúde financeira. O indicador mais importante aqui é o **Índice de Basileia**, que mede se o banco tem capital suficiente para cobrir seus riscos. O mínimo regulatório é 10,5%. O Nubank abriu 2025 em 16,9% — uma posição confortável — mas encerrou o Q3 em 14,6%, com uma queda acelerada que chama atenção.
 
 *(apontar para o gráfico de linha)*
-
 O que está puxando essa queda? Principalmente o crescimento do **RWA** — os ativos ponderados pelo risco. Em apenas 6 meses, ele subiu de R$135 bilhões para R$158 bilhões, impulsionado pela expansão agressiva da carteira de crédito.
 
 Outro dado que nos surpreendeu foi o **RWA de câmbio**, que cresceu 882% entre o Q2 e o Q3 — em apenas um trimestre. Isso indica que o banco assumiu uma exposição cambial muito relevante num curto período.
@@ -59,12 +62,12 @@ Outro dado que nos surpreendeu foi o **RWA de câmbio**, que cresceu 882% entre 
 E quando olhamos para a inadimplência — clientes que deixaram de pagar —, o cenário é igualmente preocupante. O estoque de ativos problemáticos saiu de R$13,5 bilhões para R$22,1 bilhões em um trimestre. Um crescimento de 64%.
 
 *(apontar para o gráfico de projeção)*
-
 Projetando essa tendência, o Índice de Basileia pode chegar a cerca de 11,4% no Q4 — apenas 0,9 ponto percentual acima do mínimo regulatório. Ainda dentro do limite, mas com margem muito reduzida."
 
 ---
 
 ## 🟣 BLOCO 4 — VOZ DO CLIENTE (~3 min)
+
 > *Slides: Dashboard de Reclamações · Tabela de Clusters · Heatmap · Insights Avançados*
 
 **Fala sugerida:**
@@ -81,7 +84,6 @@ Para ir além da contagem simples, aplicamos um algoritmo de **clustering** — 
 - **Cluster 3** — Problemas com cartão — risco alto, o maior volume
 
 *(apontar para o heatmap)*
-
 O mapa de calor confirma visualmente onde a concentração é maior: o ponto mais crítico está no cruzamento do Cluster 3 com Cartão de Crédito — 23 reclamações num único grupo.
 
 Para completar a análise, treinamos um modelo **Random Forest** para classificar automaticamente a gravidade de qualquer reclamação nova. O modelo atingiu 94,6% de acurácia. As palavras que mais indicam uma reclamação grave são, nessa ordem: 'cobrança indevida', 'indevida' e 'cobrança'. Ou seja, o padrão linguístico dos clientes reflete diretamente o impacto financeiro que estão sofrendo."
@@ -89,6 +91,7 @@ Para completar a análise, treinamos um modelo **Random Forest** para classifica
 ---
 
 ## 🟣 BLOCO 5 — CRUZAMENTO DOS DADOS (~2 min)
+
 > *Slide: Tabela de Cruzamento*
 
 **Fala sugerida:**
@@ -106,6 +109,7 @@ Em resumo: **a política de crédito agressiva que sustenta o crescimento do Nub
 ---
 
 ## 🟣 BLOCO 6 — PLANO DE AÇÃO E CONCLUSÃO (~2 min)
+
 > *Slides: Plano de Ação · Conclusão*
 
 **Fala sugerida:**
@@ -142,4 +146,4 @@ Ficamos à disposição para perguntas."
 
 ---
 
-*Roteiro preparado em Março de 2026 · Diagnóstico Estratégico Nubank*
+
