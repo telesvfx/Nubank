@@ -163,7 +163,8 @@ A erosão do buffer de capital é o ponto mais crítico do período.
 | **Inadimplência Bruta** | 79,5% | 🔴 Crítico | Acima do benchmark saudável. |
 | **RWA de Câmbio** | **+882%** | ❌ Outlier | Driver principal da compressão de Basileia. |
 
-> [!IMPORTANT]
+![alt text](image-2.png)
+
 > A análise **OLS (Ordinary Least Squares)** confirmou que o câmbio superou o risco de crédito como principal fator de risco regulatório no Q3.
 
 ---
@@ -182,14 +183,16 @@ A erosão do buffer de capital é o ponto mais crítico do período.
 
 Identificamos 4 perfis distintos. O **Cluster 2** é o ponto focal de risco reputacional:
 
-![alt text](image.png)
-
 | Cluster | Perfil | Risco | Severidade (Random Forest) |
 | :--- | :--- | :--- | :--- |
 | 0 | PIX e Contestações | Médio | 72% |
 | 1 | Bloqueio e Acesso | Alto | 88% |
 | **2** | **Cobrança Indevida** | **🔴 Máximo** | **94,6%** |
 | 3 | Problemas de Cartão | Alto | 81% |
+
+![alt text](image-1.png)
+
+![alt text](assets/analise_estrategica_nubank.png)
 
 ---
 
